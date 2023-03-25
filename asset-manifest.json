@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NewsDaily-React-App/static/css/main.e6c13ad2.css",
+    "main.js": "/NewsDaily-React-App/static/js/main.fcb2c4be.js",
+    "index.html": "/NewsDaily-React-App/index.html",
+    "main.e6c13ad2.css.map": "/NewsDaily-React-App/static/css/main.e6c13ad2.css.map",
+    "main.fcb2c4be.js.map": "/NewsDaily-React-App/static/js/main.fcb2c4be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.fcb2c4be.js"
+  ]
+}
