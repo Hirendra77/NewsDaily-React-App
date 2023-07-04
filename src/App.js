@@ -1,8 +1,11 @@
-import React, {useState} from 'react'
+import React, {useState, } from 'react'
 import Navbar from './Componenets/Navbar'
 import News from './Componenets/News'
 import {BrowserRouter as Router, Routes, Route} from "react-router-dom";
 import LoadingBar from 'react-top-loading-bar'
+
+
+
 
 // e7777bb2a9be4be8a3b258641f81f434
 const App= ()=> {
@@ -10,6 +13,7 @@ const App= ()=> {
    const apikey  = "e7777bb2a9be4be8a3b258641f81f434"
  
   const [progress, setProgress] = useState(0);
+  
   
     return (
       <div>

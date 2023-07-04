@@ -11,3 +11,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+ .nav-Link{
+  text-decoration: none;
+  color:white;
+}
+.card-body{
+  display: grid;
+  
+  width: 300px;
+ height: auto;
+}
